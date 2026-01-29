@@ -1,5 +1,5 @@
 {
-  "name": "@Bmbtech-Baileys",
+  "name": "@novaxmd-Baileys",
   "version": "1.0.2",
   "description": "WhatsApp Beta",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/novaxmd/@Bmbtech-Baileys",
+  "homepage": "https://github.com/novaxmd/@novaxme-Baileys",
   "repository": {
-    "url": "git@github.com:novaxmd/@Bmbtech-Baileys.git"
+    "url": "git@github.com:novaxmd/@novaxmd-Baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
