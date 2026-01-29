@@ -16,7 +16,7 @@
     "url": "https://github.com/novaxmd/baileys.git"
   },
   "license": "MIT",
-  "author": "novaxmd (forked from Adhiraj Singh)",
+  "author": "novaxmd",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
